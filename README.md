@@ -1,94 +1,121 @@
-Murat Karslıoğlu
-AI & Data Science Researcher | Computer Engineering Student
+<h1 align="center">Murat Karslıoğlu</h1>
+<h3 align="center">Artificial Intelligence & Data Science Researcher</h3>
 
-Bilgisayar Mühendisliği 2. sınıf öğrencisi olarak Yapay Zeka ve Veri Bilimi alanlarında 2,5+ yıllık araştırma ve proje deneyimine sahibim. Akademik araştırma disiplini ile algoritmik düşünceyi birleştirerek optimizasyon, makine öğrenimi ve karar destek sistemleri üzerine çalışıyorum.
+<p align="center">
+  Computer Engineering Student | Optimization Algorithms | AI Research
+</p>
 
-About Me
+---
 
-🎓 Computer Engineering Student – Sakarya Uygulamalı Bilimler Üniversitesi
+## 👨‍💻 About Me
 
-🧠 Research Focus: Artificial Intelligence, Data Science, Optimization Algorithms
+I am a Computer Engineering student with 2.5+ years of research-oriented experience in Artificial Intelligence and Data Science.  
+My work focuses on optimization algorithms, intelligent decision systems, machine learning, and computational modeling.
 
-📊 ALES (2025 – SAY): 89.49
+I combine analytical thinking with algorithmic design to develop innovative, efficient, and research-driven solutions.
 
-📍 Istanbul, Türkiye
+- 🎓 Sakarya University of Applied Sciences – Computer Engineering  
+- 📊 ALES (Quantitative – 2025): 89.49  
+- 📍 Istanbul, Türkiye  
+- 📧 Email: karsliogluu00@gmail.com  
 
-📧 Email: karsliogluu00@gmail.com
+---
 
-Research & Professional Experience
-Artificial Intelligence & Data Science Research Assistant
+## 🔬 Research Experience
 
-AI & Data Science Application and Research Center
-📅 September 2024 – Present
+### Artificial Intelligence & Data Science Research Assistant  
+**AI & Data Science Application and Research Center**  
+*Sep 2024 – Present*
 
-Machine Learning, Deep Learning ve Reinforcement Learning projeleri geliştirme
+- Development of ML, DL, and Reinforcement Learning models  
+- Genetic & Chaotic Algorithm-based optimization systems  
+- Fuzzy Logic and Multi-Criteria Decision Making implementations  
+- Quantum computation simulations for optimization research  
+- Academic writing: papers and conference publications  
 
-Genetik ve Kaotik Algoritmalar üzerine optimizasyon çalışmaları
+---
 
-Bulanık Mantık ve Çok Kriterli Karar Verme yöntemleri uygulamaları
+## 🧠 Research Interests
 
-Kuantum hesaplama ve optimizasyon simülasyonları
+- Artificial Intelligence  
+- Optimization Algorithms  
+- Genetic & Chaotic Systems  
+- Reinforcement Learning  
+- Decision Support Systems  
+- Quantum Computing  
 
-Akademik makale ve bildiri yazımı
+---
 
-Technical Expertise
-Programming
+## 🛠 Technical Skills
 
-C / C++
+### Programming Languages
+- C / C++
+- Python
+- Flutter
 
-Python
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+- Hyperparameter Optimization
 
-Flutter
+### Algorithms & Modeling
+- Genetic Algorithms
+- Chaotic Algorithms (Henon Map)
+- Fuzzy Logic
+- TOPSIS
+- Multi-Criteria Decision Making (MCDM)
+- Algorithm Analysis & Design
+- UML & System Modeling
 
-AI & Data Science
+---
 
-Machine Learning
+## 🚀 Selected Projects
 
-Deep Learning
+### NASA – Exoplanet Detection with AI (2025)
 
-Reinforcement Learning
+- Hybrid Fuzzy Logic + PPO model  
+- K2 Mission light curve data preprocessing  
+- Signal classification & transit detection  
+- Achieved 94% accuracy  
 
-Hyperparameter Optimization
+Technologies: Python, NumPy, Pandas, Scikit-learn, Deep Learning, Reinforcement Learning
 
-Algorithms & Decision Systems
+---
 
-Genetic Algorithms
+### Chaos & TOPSIS-Based Container Logistics Optimization
 
-Chaotic Algorithms
+- Synthetic dataset generation using Henon chaotic map  
+- Multi-criteria ranking with TOPSIS  
+- Decision-support system for container logistics optimization  
 
-Fuzzy Logic
+Technologies: Python, SciPy, NumPy, Pandas
 
-TOPSIS
+---
 
-Multi-Criteria Decision Making (MCDM)
+## 📈 GitHub Analytics
 
-Additional Interests
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact" height="165"/>
+</p>
 
-Quantum Computing
+---
 
-Algorithm Analysis & Design
+## 🎯 Academic Vision
 
-UML Modeling & Flowchart Design
+My long-term objective is to contribute to advanced AI-driven optimization systems by integrating:
 
-Selected Projects
-NASA – Exoplanet Detection with AI (2025)
+- Intelligent decision mechanisms  
+- Evolutionary and chaotic computation  
+- Quantum-enhanced optimization approaches  
 
-Python, NumPy, Pandas, Scikit-learn
+I aim to pursue graduate-level research and develop scalable, real-world AI solutions.
 
-Fuzzy Logic + PPO (Proximal Policy Optimization) hybrid model
+---
 
-K2 mission light curve data preprocessing & classification
+## 📫 Contact
 
-%94 accuracy in transit detection and signal classification
+- 📧 Email: karsliogluu00@gmail.com  
+- 📍 Istanbul, Türkiye  
 
-AI-supported astronomy research and model optimization üzerine ileri düzey uygulama.
-
-Chaos & TOPSIS-Based Container Logistics Optimization
-
-Henon chaotic map ile sentetik veri üretimi
-
-TOPSIS ile çok kriterli karar sıralaması
-
-40 feet konteyner lojistik optimizasyonu
-
-Veri işleme, analiz ve karar destek sistemleri geliştirme
