@@ -70,7 +70,7 @@ I combine analytical thinking with algorithmic design to develop innovative, eff
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### NASA – Exoplanet Detection with AI (2025)
 
@@ -90,27 +90,6 @@ Technologies: Python, NumPy, Pandas, Scikit-learn, Deep Learning, Reinforcement 
 - Decision-support system for container logistics optimization  
 
 Technologies: Python, SciPy, NumPy, Pandas
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact" height="165"/>
-</p>
-
----
-
-## 🎯 Academic Vision
-
-My long-term objective is to contribute to advanced AI-driven optimization systems by integrating:
-
-- Intelligent decision mechanisms  
-- Evolutionary and chaotic computation  
-- Quantum-enhanced optimization approaches  
-
-I aim to pursue graduate-level research and develop scalable, real-world AI solutions.
 
 ---
 
